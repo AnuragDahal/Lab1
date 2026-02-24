@@ -10,3 +10,4 @@ wheels/
 .venv
 */train
 */val
+*/best_model.pth
